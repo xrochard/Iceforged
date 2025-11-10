@@ -1,5 +1,5 @@
 ---
-title: "Session"
+title: "Aventures"
 weight: 1
 # bookFlatSection: false
 # bookToc: true
@@ -10,4 +10,5 @@ bookCollapseSection: true
 # bookHref: ''
 # bookIcon: ''
 ---
+<!-- LTeX: language=en-US -->
 Just a placeholder to trigger the display of the "local table of contents"

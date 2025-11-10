@@ -1,5 +1,5 @@
 ---
-title: "Session"
+title: "Conséquences"
 weight: 1
 # bookFlatSection: false
 # bookToc: true
@@ -10,4 +10,3 @@ bookCollapseSection: true
 # bookHref: ''
 # bookIcon: ''
 ---
-Just a placeholder to trigger the display of the "local table of contents"

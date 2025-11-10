@@ -1,13 +1,12 @@
 ---
-title: "Session"
+title: "Pay Price"
 weight: 1
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false
-bookCollapseSection: true
+# bookCollapseSection: false
 # bookComments: false
 # bookSearchExclude: false
 # bookHref: ''
 # bookIcon: ''
 ---
-Just a placeholder to trigger the display of the "local table of contents"

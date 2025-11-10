@@ -16,9 +16,9 @@ weight: 1
 que vous ne souhaitez pas visualiser en détail ou qui nécessitent une attention particulière,** 
 ce contenu est désormais *marqué*. 
 
+<!-- LTeX: enabled=false -->
 Lorsque vous rencontrez un contenu marqué comme nécessitant une approche attentive, 
 faites une pause pour réfléchir à son rôle dans votre histoire. 
-<!-- LTeX: enabled=false -->
 Si vous rencontrez un contenu marqué que vous préférez ajuster ou omettre, 
 [changez votre destin]({{< ref "docs/session/change_fate" >}}).
 <!-- LTeX: enabled=true -->
