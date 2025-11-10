@@ -22,4 +22,4 @@ et identifiez les occasions manquées de marquer votre progression.
 <!-- LTeX: enabled=true -->
 
 S’il y a une quête, une relation ou une autre situation sur laquelle vous souhaitez vous concentrer 
-lors du prochain scénario, notez-la et gagnez +1 momentum.
+lors du prochain scénario, notez-la et gagnez *+1 momentum*.

@@ -25,7 +25,7 @@ Vous pouvez également mettre en lumière un nouveau danger, une nouvelle
 opportunité ou une nouvelle perspective. Cela peut inclure une scène
 cachée à votre personnage. Si vous le faites, visualisez une brève
 vignette (vous pouvez lancer un dé ou choisir dans le tableau ci-dessous
-pour vous inspirer). Ensuite, tous les joueurs gagnent +1 momentum.
+pour vous inspirer). Ensuite, tous les joueurs gagnent *+1 momentum*.
 
 <!-- LTeX: enabled=false -->
 | Valeurs  | Résultat     |

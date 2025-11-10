@@ -20,7 +20,7 @@ Réfléchissez à ce qui vient de se passer et à ce que vous avez ressenti.
 Ensuite, choisissez une option.
 
 <!-- LTeX: enabled=false -->
-- *Continuer:* continuer la session. Vous ou un allié pouvez ajouter +1 à l’action suivante 
+- *Continuer:* continuer la session. Vous ou un allié pouvez ajouter *+1 à l’action suivante* 
 (qui n’est pas une action de progression), en vous appuyant sur votre réflexion et vos expériences passées.
 - *Arrêter pour l’instant:* [terminer le scénario]({{< ref "docs/session/end_session" >}}).
 <!-- LTeX: enabled=true -->

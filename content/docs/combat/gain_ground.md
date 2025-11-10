@@ -1,12 +1,14 @@
 ---
-title: "Développer une relation"
+title: "Gain Ground"
 weight: 1
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false
-# bookCollapseSection: false
+bookCollapseSection: true
 # bookComments: false
 # bookSearchExclude: false
 # bookHref: ''
 # bookIcon: ''
 ---
+<!-- LTeX: language=en-US -->
+Just a placeholder to trigger the display of the "local table of contents"

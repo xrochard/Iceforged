@@ -1,5 +1,5 @@
 ---
-title: "Faire face au danger"
+title: "Prendre l'avantage"
 weight: 1
 # bookFlatSection: false
 # bookToc: true
@@ -10,11 +10,11 @@ bookCollapseSection: true
 # bookHref: ''
 # bookIcon: ''
 ---
-
 <!-- LTeX: language=fr -->
 
-**Lorsque vous tentez une action risquée ou réagissez à une menace imminente,** 
-visualisez votre action et faites un jet. Si vous agissez...
+**Lorsque vous évaluez une situation, vous préparez ou tentez de prendre l’avantage**, 
+visualisez votre action et faites un jet. 
+Si vous agissez...
 
 - Avec rapidité, mobilité ou agilité: lancez *+Vivacité*.
 - Avec détermination, autorité ou sociabilité: lancez *+Empathie*.
@@ -22,14 +22,14 @@ visualisez votre action et faites un jet. Si vous agissez...
 - Avec tromperie, discrétion ou ruse: lancez *+Ruse*.
 - Avec expertise, concentration ou observation: lancez *+Intuition*.
 
-En cas de **réussite majeure**, vous réussissez. Gagnez *+1 momentum*.
+En cas de **réussite**, vous réussissez. 
+En cas de **réussite majeure**, vous prenez les deux options. 
+En cas de **réussite mineure**, choisissez-en une.
+
+- Gagnez *+2 momentum*.
+- Ajoutez *+1 à votre prochaine action* (pas une action de progression).
 
 <!-- LTeX: enabled=false -->
-En cas de **réussite mineure**, vous réussissez, mais avec un coût.
-Effectuez une [action de conséquence]({{< ref "docs/suffer" >}}) (-1).
-<!-- LTeX: enabled=true -->.
-
-<!-- LTeX: enabled=false -->
-En cas **d’échec**, vous échouez, ou votre succès momentané est compromis par la tournure des événements. 
+En cas **d’échec**, vous échouez, ou vos suppositions se révèlent erronées. 
 [Payez-en le prix]({{< ref "docs/fate/pay_price" >}}).
 <!-- LTeX: enabled=true -->
