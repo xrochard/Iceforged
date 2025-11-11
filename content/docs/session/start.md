@@ -27,9 +27,8 @@ cachée à votre personnage. Si vous le faites, visualisez une brève
 vignette (vous pouvez lancer un dé ou choisir dans le tableau ci-dessous
 pour vous inspirer). Ensuite, tous les joueurs gagnent *+1 momentum*.
 
-<!-- LTeX: enabled=false -->
-| Valeurs  | Résultat     |
-| :---:    | :--- |
+| d100     | Résultat     |
+| :---:    | :---         |
 |  1 - 10  | Un flashback révèle un aspect de votre passé ou de votre nature  |
 | 11 - 20  | Un flashback révèle un aspect d’un autre personnage, lieu ou faction  |
 | 21 - 30  | Un personnage ou une faction influent(e) est présenté(e) ou reçoit de nouveaux détails  |
@@ -40,4 +39,3 @@ pour vous inspirer). Ensuite, tous les joueurs gagnent *+1 momentum*.
 | 71 - 80  | Retour inattendu d’un ennemi ou d’une menace  |
 | 81 - 90  | Un péril vous guette ou se cache juste hors de vue  |
 | 91 - 100 | Une aide imprévue est en route ou à portée de main  |
-<!-- LTeX: enabled=true -->

@@ -12,15 +12,18 @@ bookCollapseSection: true
 ---
 <!-- LTeX: language=fr -->
 
-<!-- LTeX: enabled=false -->
 Lorsque votre relation avec un contact est mise à l’épreuve par un conflit, une trahison ou les circonstances, 
 lancez *+Empathie*. 
 Si vous partagez un lien, *ajoutez +1*. 
+
+<!-- LTeX: enabled=false -->
 En cas de **réussite majeure**, [développez votre relation]({{< ref "docs/relationship/development" >}}).
+
 En cas de **réussite mineure**, [développez votre relation]({{< ref "docs/relationship/development" >}}).
 mais visualisez également une exigence ou une complication suite à cette épreuve. 
-En cas **d’échec**, ou si vous ne souhaitez pas entretenir cette relation, choisissez une option.
 <!-- LTeX: enabled=true -->
+
+En cas **d’échec**, ou si vous ne souhaitez pas entretenir cette relation, choisissez une option.
 
 <!-- LTeX: enabled=false -->
 - Rompre la relation: visualisez l’impact que cela aura sur vous et

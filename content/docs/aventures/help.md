@@ -20,4 +20,5 @@ Si vous réussissez, *c’est lui (et non vous)* qui bénéficie des résultats 
 <!-- LTeX: enabled=true -->
 
 En cas de **réussite majeure**, si *vous gagnez du terrain,* vous avez tous les deux le contrôle. 
+
 En cas de **réussite mineure**, votre allié a le contrôle, mais vous êtes en mauvaise posture.
