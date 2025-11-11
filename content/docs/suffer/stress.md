@@ -32,10 +32,10 @@ En cas de **réussite majeure**, choisissez l’une des deux options.
 En cas de **réussite mineure**, si vous n’êtes pas **secoué**, 
 vous pouvez [perdre du momentum]({{< ref "docs/suffer/momentum" >}}) (-1) en échange de *+1 esprit*. 
 Sinon, continuez.
-<!-- LTeX: enabled=true -->
 
 En cas **d’échec**, la situation est pire que prévu. 
 Vous subissez *-1 esprit* supplémentaire ou [perdez du momentum]({{< ref "docs/suffer/momentum" >}}) (-2). 
+<!-- LTeX: enabled=true -->
 
 Si votre *esprit est à 0*, vous devez également marquer que vous êtes **secoué** ou **traumatisé**, 
 ou lancer un dé pour le tableau ci-dessous.

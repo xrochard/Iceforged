@@ -1,5 +1,5 @@
 ---
-title: "Restore"
+title: "Récupération"
 weight: 1
 # bookFlatSection: false
 # bookToc: true
