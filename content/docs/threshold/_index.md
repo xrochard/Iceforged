@@ -1,5 +1,5 @@
 ---
-title: "Threshold"
+title: "Seuil"
 weight: 1
 # bookFlatSection: false
 # bookToc: true
