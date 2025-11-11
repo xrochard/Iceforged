@@ -1,0 +1,6 @@
+/* You can override SCSS variables here. */
+.theme-light {
+    // It doesn't work to override variables inside the mixin,
+    // so we override all the mixin in the _custom.scss file.
+    --color-visited-link: #0055bb;
+}
