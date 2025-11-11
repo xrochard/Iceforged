@@ -10,5 +10,5 @@ bookCollapseSection: true
 # bookHref: ''
 # bookIcon: ''
 ---
-<!-- LTeX: language=en-US -->
-Just a placeholder to trigger the display of the "local table of contents"
+<!-- LTeX: language=fr-->
+Un simple proxy pour faire s'afficher la table des matières du chapitre.
