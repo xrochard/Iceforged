@@ -1,5 +1,5 @@
 ---
-title: "Test"
+title: "Testez votre relation"
 weight: 1
 # bookFlatSection: false
 # bookToc: true
@@ -10,5 +10,23 @@ bookCollapseSection: true
 # bookHref: ''
 # bookIcon: ''
 ---
-<!-- LTeX: language=en-US -->
-Just a placeholder to trigger the display of the "local table of contents"
+<!-- LTeX: language=fr -->
+
+<!-- LTeX: enabled=false -->
+Lorsque votre relation avec un contact est mise à l’épreuve par un conflit, une trahison ou les circonstances, 
+lancez *+Empathie*. 
+Si vous partagez un lien, *ajoutez +1*. 
+En cas de **réussite majeure**, [développez votre relation]({{< ref "docs/relationship/development" >}}).
+En cas de **réussite mineure**, [développez votre relation]({{< ref "docs/relationship/development" >}}).
+mais visualisez également une exigence ou une complication suite à cette épreuve. 
+En cas **d’échec**, ou si vous ne souhaitez pas entretenir cette relation, choisissez une option.
+<!-- LTeX: enabled=true -->
+
+<!-- LTeX: enabled=false -->
+- Rompre la relation: visualisez l’impact que cela aura sur vous et
+[Payez-en le prix]({{< ref "docs/fate/pay_price" >}}).
+- Prouver votre loyauté: visualisez ce que vous offrez ou ce qu’il exige, 
+et [faites une promesse](#swear vow) (redoutable ou supérieure). 
+Tant que vous n’avez pas terminé cette quête, vous ne tirez aucun avantage de cette relation. 
+Si vous refusez ou échouez, la relation est définitivement rompue.
+<!-- LTeX: enabled=true -->
