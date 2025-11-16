@@ -2,3 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'fr'
 title = 'la compagnie des glaces: actions'
 theme = 'hugo-book'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
