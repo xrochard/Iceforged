@@ -28,7 +28,7 @@ Il gagne *+1 point de vie*.
 <!-- LTeX: enabled=false -->
 En cas de **réussite mineure**, si sa santé n’est pas à 0, 
 vous pouvez [perdre du momentum]({{< ref "docs/suffer/momentum" >}}) (-1) 
-et lui donner *+1 point de vie. 
+et lui donner *+1 point de vie*. 
 Sinon, il continue.
 
 En cas d'**échec**, la situation est pire que prévu. 

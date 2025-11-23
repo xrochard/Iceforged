@@ -29,7 +29,7 @@ En cas **d’échec**, ou si vous ne souhaitez pas entretenir cette relation, ch
 - Rompre la relation: visualisez l’impact que cela aura sur vous et
 [Payez-en le prix]({{< ref "docs/fate/pay_price" >}}).
 - Prouver votre loyauté: visualisez ce que vous offrez ou ce qu’il exige, 
-et [faites une promesse](#swear vow) (redoutable ou supérieure). 
+et [faites une promesse]({{< ref "docs/quest/vow" >}}) (redoutable ou supérieure). 
 Tant que vous n’avez pas terminé cette quête, vous ne tirez aucun avantage de cette relation. 
 Si vous refusez ou échouez, la relation est définitivement rompue.
 <!-- LTeX: enabled=true -->
